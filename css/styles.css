@@ -1,3 +1,10 @@
+.mHeader {
+  background-color: #512DA8;
+  color: #ddd; }
+
+.mBody {
+  background-color: #9575CD; }
+
 .row-header {
   margin: 0px auto;
   padding: 0px 0px; }
